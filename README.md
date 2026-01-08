@@ -13,7 +13,7 @@ The project is structured around:
 - **An HTML version of the ODD** for human-readable documentation  
 
 ## Customization
-The ODD has been customized to reflect project-specific rules, including required attributes such as `@type` on `<persName>` and `<correspAction>`, controlled vocabularies, and sequences of elements like `<persName>` and `<placeName>`. These modifications ensure consistent and scalable markup across the corpus while capturing semantic, intertextual, and structural features.
+The ODD has been customized to reflect project-specific rules, including required attributes, controlled vocabularies, and sequences of elements. These modifications ensure consistent markup across the corpus while capturing semantic, intertextual, and structural features.
 
 ## Usage
 Users can validate the XML texts against the RNG or consult the HTML ODD to understand the applied constraints and encoding conventions.
